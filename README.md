@@ -25,7 +25,7 @@ A teszteléshez a VS Code **Thunder Client** bővítményét használtam. A Thun
 
 ### Járatok lekérdezése – `GET /api/flights`
 
-![Járatok lekérdezése](test-get-flight.png)
+![Járatok lekérdezése](test-get-flights.png)
 
 ### Egy légitársaság lekérdezése – `GET /api/airlines/3`
 
